@@ -10,31 +10,22 @@ Quick Summary (not objective) specifically highlighting why you qualify for the 
 
 # Work Experience (only last 10 years)
 
+## Family Fun Center (Tukwila, Washington)
+
+*A family entertainment center with both indoor and outdoor attractions, as well as a restaurant.*
+
+**Line Cook** (2021-2024)
+
 ## University of Washington (Seattle, Washington)
 
-* [University 1][] description, particularly if not well-known.*
+*One of the oldest universities on the West Coast. A public 4-year university well known for medical, engineering, and scientific research.*
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+**Student** (2022 - Present)
 
 ## Renton Technical College (Renton, Washington)
-*[University 2][] description, particularly if not well-known.*
+*A public community/technical college that offers short and long-term career training programs, apprenticeships, college transfer options, and applied bachelor’s degrees in information technology.*
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
+**Student** (2021 - 2022)
 
 [University 1]: https://www.washington.edu/
 [University 2]: https://rtc.edu/
