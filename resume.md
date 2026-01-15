@@ -2,11 +2,12 @@
 
 kchao589@uw.edu
 
-http://www.linkedin.com/in/yourname
+https://www.linkedin.com/in/kevin-chao-88168523a/
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+I have basic experience programming in Java and C#, as well as knowledge in web development using
+HTML and CSS. I also have experience using GIS software such as ArcGIS and QGIS.
 
 # Work Experience (only last 10 years)
 
