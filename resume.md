@@ -6,25 +6,31 @@ https://www.linkedin.com/in/kevin-chao-88168523a/
 
 # Summary
 
-I have basic experience programming in Java and C#, as well as knowledge in web development using
-HTML and CSS. I also have experience using GIS software such as ArcGIS and QGIS.
+I have basic experience in programming and web design with the following languages:
+
+- C#
+- Java
+- HTML
+- CSS
+
+I also have experience using GIS software such as ArcGIS and QGIS.
 
 # Work Experience (only last 10 years)
 
 ## Family Fun Center (Tukwila, Washington)
 
-*A family entertainment center with both indoor and outdoor attractions, as well as a restaurant.*
+> *A family entertainment center with both indoor and outdoor attractions, as well as a restaurant.*
 
 **Line Cook** (2021-2024)
 
 ## University of Washington (Seattle, Washington)
 
-*One of the oldest universities on the West Coast. A public 4-year university well known for medical, engineering, and scientific research.*
+> *One of the oldest universities on the West Coast. A public 4-year university well known for medical, engineering, and scientific research.*
 
 **Student** (2022 - Present)
 
 ## Renton Technical College (Renton, Washington)
-*A public community/technical college that offers short and long-term career training programs, apprenticeships, college transfer options, and applied bachelor’s degrees in information technology.*
+> *A public community/technical college that offers short and long-term career training programs, apprenticeships, college transfer options, and applied bachelor’s degrees in information technology.*
 
 **Student** (2021 - 2022)
 
